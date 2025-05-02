@@ -45,8 +45,12 @@
 
 ## Output:
 
-### Name:
-### Register Number:
+![Screenshot 2025-05-02 105856](https://github.com/user-attachments/assets/2354ad41-2b51-4de6-b5f2-329954054741)
+
+
+
+### Name:SHARON ARUL BHARATHI J.F.
+### Register Number:212224100056
 
 ## Result: 
 ### Thus the simulation on the Preprocessing in additive manufacturing is completed.
